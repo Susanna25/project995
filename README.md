@@ -1,2 +1,3 @@
 # project995
-My first repository
+My first Git repository
+author - Susanna Suryawanshi
